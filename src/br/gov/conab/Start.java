@@ -3,7 +3,6 @@ package br.gov.conab;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
 import br.gov.conab.frame.StartFrame;
